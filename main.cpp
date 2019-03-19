@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    int a,b;
+
+    double a,b;
     cout<< "Enter A and B: ";
     cin>>a>>b;
 
@@ -14,6 +15,7 @@ int main()
          << "A / B = " << a / b << '\n'
          <<"max= "<<max(a,b)<< '\n'
          <<"min= "<<min(a,b)<< '\n';
+
 
     return 0;
 }
