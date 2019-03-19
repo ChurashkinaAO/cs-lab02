@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-
     double a,b;
     cout<< "Enter A and B: ";
     cin>>a>>b;
